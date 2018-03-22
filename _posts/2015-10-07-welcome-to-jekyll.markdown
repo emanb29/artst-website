@@ -27,7 +27,7 @@ In order to effectively generate power, we not only needed to find efficient pie
 Piezo cells generate an incredibly inconsistent, very high-voltage, and astonishingly low-current AC flow of electricity. While inconsistency is fine (and might even be to the benefit of flashing LEDs), without a strong electrical engineering background, we were uncertain of the implications of high-voltage and low-current power. What we did figure out, rather quickly, is how to convert low-power AC current into low-power DC current without major loss (since LEDs only work with DC current). For this purpose, we made a simple circuit called a bridge rectifier, consisting of four diodes.
 ![Diodes assortment](https://i.imgur.com/01Mf9A5.jpg)
 ![Power Conversion Circuit](https://i.imgur.com/LbjEyyJ.jpg)
-Actually constructing these circuits proved to be a bit of an ordeal in itself, due to neither of us having much soldering experience (left example), but we eventually found a solution that resulted in a much smaller and more sturdy final product (right example).
+Actually constructing these circuits proved to be a bit of an ordeal in itself, due to neither of us having much soldering experience (left example), but we eventually [found a solution that resulted in a much smaller and more sturdy final product (right example)](https://youtu.be/Fztzn2LcGOE?t=1m38s).
 ### Illuminating LEDs
 Without much EE knowledge, as mentioned, we 
 
