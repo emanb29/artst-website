@@ -31,4 +31,5 @@ Actually constructing these circuits proved to be a bit of an ordeal in itself, 
 
 ## Next Steps
 To continue the project, there are a few avenues we will need to explore:
-- Finding annd rating better piezoelectric cells: We
+- Finding and rating better piezoelectric cells: We have ordered a few more piezo cells of different types. As datasheets seem incredibly hard to come by, we will have to rate the piezo cells ourselves, but luckily this is a simple and familiar process
+- 
