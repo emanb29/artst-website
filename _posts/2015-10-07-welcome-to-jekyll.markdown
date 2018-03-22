@@ -2,7 +2,7 @@
 layout: post
 title: Safety Shoes - Spring Break Milestone
 date: {}
-preview: 'https://unsplash.it/300/300'
+preview: 'https://i.imgur.com/cFQgKA3.jpg'
 published: true
 ---
 
