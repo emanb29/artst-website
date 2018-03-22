@@ -29,11 +29,11 @@ Piezo cells generate an incredibly inconsistent, very high-voltage, and astonish
 ![Power Conversion Circuit](https://i.imgur.com/LbjEyyJ.jpg)
 Actually constructing these circuits proved to be a bit of an ordeal in itself, due to neither of us having much soldering experience (left example), but we eventually [found a solution that resulted in a much smaller and more sturdy final product (right example)](https://youtu.be/Fztzn2LcGOE?t=1m38s).
 ### Illuminating LEDs
-Without much EE knowledge, as mentioned, we 
+Without much EE knowledge, as mentioned, we were unsure of how successful we would be in illuminating LEDs with high-voltage and low-current power. However, from some preliminary research, it seems that voltage is usually the limiting factor rather than amperage. Further, we found many sources (eg [here](http://lednique.com/current-voltage-relationships/iv-curves/) and [here](https://reefbuilders.com/2010/09/30/philips-lumileds-luxeon-rebel-color-leds-power/)) suggesting that red LEDs are *far* more current-efficient than other colors. As such, that is wwhat we ordered.
 
 ## Next Steps
 To continue the project, there are a few avenues we will need to explore:
 - Finding and rating better piezoelectric cells: We have ordered a few more piezo cells of different types. As datasheets seem incredibly hard to come by, we will have to rate the piezo cells ourselves, but luckily this is a simple and familiar process
-- Testing LEDs: 
-- Carving the shoe: We need to find a place we can actually fit the electronics in the shoe
+- Testing LEDs: While the numbers don't look good for a single piezo cell being able to power an LED, we have so far only rated trashy (as mentioned) piezo cells, and in our final product, we'll be wiring a bunch of bridge-rectified (to avoid interference) cells in series for a much larger current.
+- Carving the shoe: We need to find a place we can actually fit the electronics in the shoe. We chose some thick-soled shoes in the hopes that we will be able to carve a hole into the sole in which to place the electronics while retaining comfort.
 - Applying retroreflective plating: This should actually be easy -- we found retroreflective tape for a great price!
