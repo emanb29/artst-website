@@ -29,7 +29,7 @@ Piezo cells generate an incredibly inconsistent, very high-voltage, and astonish
 ![Power Conversion Circuit](https://i.imgur.com/LbjEyyJ.jpg)
 Actually constructing these circuits proved to be a bit of an ordeal in itself, due to neither of us having much soldering experience (left example), but we eventually [found a solution that resulted in a much smaller and more sturdy final product (right example)](https://youtu.be/Fztzn2LcGOE?t=1m38s).
 ### Illuminating LEDs
-Without much EE knowledge, as mentioned, we were unsure of how successful we would be in illuminating LEDs with high-voltage and low-current power. However, from some preliminary research, it seems that voltage is usually the limiting factor rather than amperage. Further, we found many sources (eg [here](http://lednique.com/current-voltage-relationships/iv-curves/) and [here](https://reefbuilders.com/2010/09/30/philips-lumileds-luxeon-rebel-color-leds-power/)) suggesting that red LEDs are *far* more current-efficient than other colors. As such, that is wwhat we ordered.
+Without much EE knowledge, as mentioned, we were unsure of how successful we would be in illuminating LEDs with high-voltage and low-current power. However, from some preliminary research, it seems that voltage is usually the limiting factor rather than amperage. Further, we found many sources (eg [here](http://lednique.com/current-voltage-relationships/iv-curves/) and [here](https://reefbuilders.com/2010/09/30/philips-lumileds-luxeon-rebel-color-leds-power/)) suggesting that red LEDs are *far* more current-efficient than other colors. As such, that is what we ordered.
 
 ## Next Steps
 To continue the project, there are a few avenues we will need to explore:
