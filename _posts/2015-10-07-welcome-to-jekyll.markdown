@@ -23,4 +23,6 @@ There were several challenges to overcome, each detailed below:
 ### Generating power
 In order to effectively generate power, we not only needed to find efficient piezoelectric cells, but also
 ### Converting power to a usable form
+Piezo cells generate an incredibly inconsistent, very high-voltage, and astonishingly low-current AC flow of electricity. While inconsistency is fine (and might even be to the benefit of flashing LEDs), without a strong electrical engineering background, we were uncertain of the implications of high-voltage and low-current power. What we did figure out, rather quickly, is how to convert low-power AC current into low-power DC current without major loss. For this purpose, we made a simple circuit called a bridge rectifier, consisting of four diodes.
+![Power Conversion Circuit](https://i.imgur.com/LbjEyyJ.jpg)
 ### Illuminating LEDs
