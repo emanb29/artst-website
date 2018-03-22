@@ -37,3 +37,10 @@ To continue the project, there are a few avenues we will need to explore:
 - Testing LEDs: While the numbers don't look good for a single piezo cell being able to power an LED, we have so far only rated trashy (as mentioned) piezo cells, and in our final product, we'll be wiring a bunch of bridge-rectified (to avoid interference) cells in series for a much larger current.
 - Carving the shoe: We need to find a place we can actually fit the electronics in the shoe. We chose some thick-soled shoes in the hopes that we will be able to carve a hole into the sole in which to place the electronics while retaining comfort.
 - Applying retroreflective plating: This should actually be easy -- we found retroreflective tape for a great price!
+
+## Assessment
+Unfortunately, this project is seeming like more of an engineering challenge than initially expected. If our second major iteration of the prototype has as little success as this previous one did (ie, doubtful power ratings, fragile components, etc), we may have to scrap the project and chalk it up to a learning experience. Still, I have hope that this project will come together. Either way, we've learned a ton about electrical engineering, reusability (it's not as easy as we expected), how to solder, and how to research technical details of components and systems.
+
+*For the "sustainable household" question, please see "Motivation" above*
+
+### Learning objectives
