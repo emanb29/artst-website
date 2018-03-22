@@ -21,12 +21,14 @@ In order to harvest the energy from (and provide security while) walking, we opt
 There were several challenges to overcome, each detailed below:
 
 ### Generating power
-In order to effectively generate power, we not only needed to find efficient piezoelectric cells, but also optimally place those cells. Unfortunately, the first batch of piezoelectric cells we ordered were incredibly frail and produced too little current to be usable.
+In order to effectively generate power, we not only needed to find efficient piezoelectric cells, but also optimally place those cells. Unfortunately, the first batch of piezoelectric cells we ordered were incredibly frail and produced too little current to be usable. They did, however, have way higher voltage output than expected.
+![Typical voltage rating from old piezo cells at 15 degree bend](https://i.imgur.com/4cceLfh.jpg)
 ### Converting power to a usable form
 Piezo cells generate an incredibly inconsistent, very high-voltage, and astonishingly low-current AC flow of electricity. While inconsistency is fine (and might even be to the benefit of flashing LEDs), without a strong electrical engineering background, we were uncertain of the implications of high-voltage and low-current power. What we did figure out, rather quickly, is how to convert low-power AC current into low-power DC current without major loss. For this purpose, we made a simple circuit called a bridge rectifier, consisting of four diodes.
 ![Power Conversion Circuit](https://i.imgur.com/LbjEyyJ.jpg)
+Actually constructing these circuits proved to be a bit of an ordeal in itself, due to neither of us having much soldering experience (left example), but we eventually found a solution that resulted in a much smaller and more sturdy final product (right example).
 ### Illuminating LEDs
 
 ## Next Steps
 To continue the project, there are a few avenues we will need to explore:
-- Finding better piezoelectric cells: These have been 
+- Finding annd rating better piezoelectric cells: We
