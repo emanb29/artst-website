@@ -44,3 +44,11 @@ Unfortunately, this project is seeming like more of an engineering challenge tha
 *For the "sustainable household" question, please see "Motivation" above*
 
 ### Learning objectives
+We feel the following learning objectives are particularly applicable to our experience with this project so far:
+- Apply the Creative Process to solve a problem
+- Identify and manipulate the variables of a problem to find novel and appropriate solutions within project constraints
+- Explain and demonstrate Divergent Thinking: generate divergent thinking lists that contain novel ideas related to project variables
+- Explain and demonstrate Convergent Thinking: select and justify a solution that best addresses the stated goals within the constraints of a given problem
+- Communicate an idea related to a prompt to peers and instructor through sketches or diagrams
+- Recognize Challenges/Failures and describe orally or in writing how they were able to move past them
+- Evaluate sustainability issues and solutions using a transdisciplinary approach that focuses on the intersections between complex human and natural systems
