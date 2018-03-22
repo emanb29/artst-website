@@ -1,6 +1,6 @@
 # Site settings
 title: ARTST Portfolio
-email: bell4155 (pacificu.edu)
+email: "bell4155 (pacificu.edu)"
 description: > # this means to ignore newlines until "baseurl:"
 	The artst portfolio website for Ethan Bell
 baseurl: "/artst-website" # the subpath of your site, e.g. /blog
