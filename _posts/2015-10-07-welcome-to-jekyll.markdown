@@ -35,3 +35,5 @@ Without much EE knowledge, as mentioned, we
 To continue the project, there are a few avenues we will need to explore:
 - Finding and rating better piezoelectric cells: We have ordered a few more piezo cells of different types. As datasheets seem incredibly hard to come by, we will have to rate the piezo cells ourselves, but luckily this is a simple and familiar process
 - Testing LEDs: 
+- Carving the shoe: We need to find a place we can actually fit the electronics in the shoe
+- Applying retroreflective plating: This should actually be easy -- we found retroreflective tape for a great price!
