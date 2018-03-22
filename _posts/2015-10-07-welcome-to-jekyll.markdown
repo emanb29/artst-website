@@ -3,7 +3,7 @@ layout: post
 title: Safety Shoes - Spring Break Milestone
 date: {}
 preview: 'https://i.imgur.com/cFQgKA3.jpg'
-published: true
+published: false
 ---
 
 ![Parts Assembled](https://i.imgur.com/cFQgKA3.jpg)
