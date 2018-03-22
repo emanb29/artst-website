@@ -44,7 +44,7 @@ Unfortunately, this project is seeming like more of an engineering challenge tha
 *For the "sustainable household" question, please see "Motivation" above*
 
 ### Learning objectives
-We feel the following learning objectives are particularly applicable to our experience with this project so far:
+We feel the following learning objectives are particularly applicable to our experience with this project so far (selected from only "Outcomes for ARTST 121", "Outcomes for Civic Engagement", and "Outcomes for Sustainability", as these are the only sections relevant to what I'm applying this course to)
 - Apply the Creative Process to solve a problem
 - Identify and manipulate the variables of a problem to find novel and appropriate solutions within project constraints
 - Explain and demonstrate Divergent Thinking: generate divergent thinking lists that contain novel ideas related to project variables
