@@ -41,7 +41,7 @@ To continue the project, there are a few avenues we will need to explore:
 ## Assessment
 Unfortunately, this project is seeming like more of an engineering challenge than initially expected. If our second major iteration of the prototype has as little success as this previous one did (ie, doubtful power ratings, fragile components, etc), we may have to scrap the project and chalk it up to a learning experience. Still, I have hope that this project will come together. Either way, we've learned a ton about electrical engineering, reusability (it's not as easy as we expected), how to solder, and how to research technical details of components and systems.
 
-*For the "sustainable household" question, please see "Motivation" above*
+*For the "sustainable household" question, please see [Motivation](#motivation) above*
 
 ### Learning objectives
 We feel the following learning objectives are particularly applicable to our experience with this project so far (selected from only "Outcomes for ARTST 121", "Outcomes for Civic Engagement", and "Outcomes for Sustainability", as these are the only sections relevant to what I'm applying this course to)
