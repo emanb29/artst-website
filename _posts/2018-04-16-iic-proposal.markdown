@@ -6,7 +6,7 @@ preview: "https://thumbs.gfycat.com/SlimAfraidHairstreakbutterfly-size_restricte
 ## The Assignment
 As an exercise, we created proposals akin to the kind you would submit to the [Berglund Center's Inspired Ideas Competition](https://is6.us/iic). I came up with a patentable mechanism for automated laundry folding. The slides used for my presentation are below, but the main feature of it is the animation, and the gist of it is as follows:
 
-Doing laundry isn't too bad: it's rather laid back until you have to spend ages folding your clothes. Current folders are either automatic or both super expensive and in early prototype phase. Even then, many proposals require more work to use than just folding the laundry in the first place. My system is compact, cheap to construct, and modular enough to be maintainable.
+Doing laundry isn't too bad: it's rather laid back until you have to spend ages folding your clothes. Current folders are either almost entirely manual or both super expensive and in early prototype phase. Even then, many proposals require more work to use than just folding the laundry in the first place. My system is compact, cheap to construct, and modular enough to be maintainable.
 
 ## Slides
 
