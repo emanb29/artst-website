@@ -1,5 +1,6 @@
 ---
 published: true
+title: "Inspired Ideas Competition \"Proposal\""
 ---
 ## The Assignment
 As an exercise, we created proposals akin to the kind you would submit to the [Berglund Center's Inspired Ideas Competition](https://is6.us/iic). I came up with a patentable mechanism for automated laundry folding. The slides used for my presentation are below, but the main feature of it is the animation, and the gist of it is as follows:
