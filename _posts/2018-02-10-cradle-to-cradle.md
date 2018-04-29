@@ -11,6 +11,8 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 
 3. **Write a brief paragraph summarizing the relationships between the following terms, according to the authors: Guardian, Commerce, Design, Regulation, License to harm, Less bad**
 
+	Admittedly, I do not recall the term “Guardian” being used. Less bad is described above, and a “license to harm” is one effect of the “less bad” thinking. A “license to harm” is an entity’s (stereotypically an industry or company) perception that because the government regulates “You cannot do more bad than XYZ”, it is fine to do up to as much bad as XYZ. For example, regulations exist stating that contaminated soil must be buried in safe locations and replaced. Companies might take this as a “license to harm” and say something like “Well, as long as we replace the soil when it gets contaminated, it’s fine to keep contaminating it!” These considerations are presented in this book at the level of products and systems design, since that’s the author’s vocation. One argument in the book is that there are better approaches to sustainability than guilting the consumer, but only when industry accounts for sustainability in the design stage of their processes of development. Commerce refers to the interactions between industry and consumers, and is what is being designed.
+
 4. **In the section called “Consider the Cherry Tree,” the authors describe 2 different approaches for designing a building; The Eco-efficient building and the Cherry tree building. Make a bullet-point list of the design goals for these 2 approaches:**
 
    - Eco-efficient building:
