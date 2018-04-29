@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+preview: "https://i.imgur.com/eiVfoBJ.jpg"
 ---
 ## Essay?
 The following is an essay I wrote as a part of my Gadgets and Gizmos art studio course, exploring concepts of sustainability and how it can be applied in product prototypes.
