@@ -33,7 +33,6 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 	- Look at local history and culture for locally relevant ways of producing / designing systems / products
 	- Consider how to reduce a product to its simplest form that is still globally relevant, then add local modifications
 
-
 6. **In what ways to you respect diversity in your daily life?**
 
 	I don’t generally have a need to. I have minimal social interaction with other cultures, and zero professional interaction. Nothing I produce gets consumed by people very different than me. This was a deliberate choice on my part: I write software and do research specifically for people with similar backgrounds and interests so that I can focus on the semantics of my product rather than the presentation. I do acknowledge that this is not always possible, but it is something I have considered.
