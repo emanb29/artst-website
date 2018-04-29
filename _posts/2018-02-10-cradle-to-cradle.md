@@ -49,10 +49,10 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 8. **What are the 5 guiding principles for eco-effective design?**
 
 	1. Commit to being eco-effective ("Signal your intention")
-    2. b.	Have your designs do more good than harm, ie fix past mistakes (“Restore”)
-	3.	Be open to reframing your problem to one better solved by eco-effectiveness (“Be ready to innovate further”)
-	4.	Be ready to follow through on sticking with the changes (“Understand and prepare for the learning curve”)
-	5.	Act as a steward and, separately, ensure your changes are reversible (or your whole system is replaceable) for when the needs of future consumers change (“Exert intergenerational responsibility”)
+    2. Have your designs do more good than harm, ie fix past mistakes (“Restore”)
+	3. Be open to reframing your problem to one better solved by eco-effectiveness (“Be ready to innovate further”)
+	4. Be ready to follow through on sticking with the changes (“Understand and prepare for the learning curve”)
+	5. Act as a steward and, separately, ensure your changes are reversible (or your whole system is replaceable) for when the needs of future consumers change (“Exert intergenerational responsibility”)
 
 
 9. **What did you think of this book?**
