@@ -27,6 +27,8 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 
 6. **In what ways to you respect diversity in your daily life?**
 
+	I don’t generally have a need to. I have minimal social interaction with other cultures, and zero professional interaction. Nothing I produce gets consumed by people very different than me. This was a deliberate choice on my part: I write software and do research specifically for people with similar backgrounds and interests so that I can focus on the semantics of my product rather than the presentation. I do acknowledge that this is not always possible, but it is something I have considered.
+
 7. **What are the 5 steps towards eco-effectiveness?**
 
 	1. Eliminate obvious culprits (X substances in industry): consider “Arsenic-free” food. This can often be obvious, but is a necessary first step
