@@ -41,6 +41,12 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
   <dd>A product that you buy PLUS additional additives or effects you were not aware of and may not want.</dd>
   <dt>Downcycling</dt>
   <dd>Recycling that substantially reduces the quality of the products undergoing it, or else recycling that takes so many resources to perform that the net effect is even less sustainable than simple replacement of the inputs.</dd>
-  <dt></dt>
-  <dd></dd>
+  <dt>Eco-effectiveness</dt>
+  <dd>Design that uses nature’s principles of reuse to be sustainable.</dd>
+  <dt>Technological nutrients</dt>
+  <dd>Materials that are usable in products (especially in the context of recycled materials) but not so much as a raw resource.</dd>
+  <dt>De-Evolution</dt>
+  <dd>I don’t recall this being used in the book, but it means evolution that has a net reduction in complexity / effectiveness (literally, in latin, “rolling down”)</dd>
+  <dt>What a “sustainable household” means to me</dt>
+  <dd>A sustainable household, in my current rough concept (not yet fleshed out to the degree of writing a whole paper), is a household which is well-informed about key sustainability concepts: downcycling, eco-effectiveness, technical metabolism, etc; and uses this knowledge to inform their choice of products. Additionally, a sustainable household aims to be eco-efficient, using the “Three Rs” where possible, etc. A sustainable household needn’t be perfect, nor should a sustainable household require its constituents to be constantly worried or guilted over sustainability. Currently, too much of the burden falls on the consumer. I think that if households were more informed about sustainability in general, and less apt to immediately go for a “recycled” product despite lower quality, harmful side effects, and other downcycling considerations, enough change would be made in which products get consumed that industry would be forced to make the really effective changes. In other words, the role of the household is to be aware of the issues, be “less bad”, and to urge industry to properly solve those issues.</dd>
 </dl>
