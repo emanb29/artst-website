@@ -5,13 +5,13 @@ published: false
 After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I was asked to respond to a sequence of questions and define some terms in the context of _Cradle to Cradle_. What follows are the questions, answers, and definitions.
 
 ## Questions
-1. What concerns do the authors discuss in relation to the way Gross Domestic Product (GDP) is calculated?
+1. **What concerns do the authors discuss in relation to the way Gross Domestic Product (GDP) is calculated?**
 
-2. Describe the concept contained in the phrase “Less Bad” Why do the authors say that less bad is no good?
+2. **Describe the concept contained in the phrase “Less Bad” Why do the authors say that less bad is no good?**
 
-3. Write a brief paragraph summarizing the relationships between the following terms, according to the authors: Guardian, Commerce, Design, Regulation, License to harm, Less bad
+3. **Write a brief paragraph summarizing the relationships between the following terms, according to the authors: Guardian, Commerce, Design, Regulation, License to harm, Less bad**
 
-4. In the section called “Consider the Cherry Tree,” the authors describe 2 different approaches for designing a building; The Eco-efficient building and the Cherry tree building. Make a bullet-point list of the design goals for these 2 approaches:
+4. **In the section called “Consider the Cherry Tree,” the authors describe 2 different approaches for designing a building; The Eco-efficient building and the Cherry tree building. Make a bullet-point list of the design goals for these 2 approaches:**
 
    - Eco-efficient building:
 		- Make the building functional
@@ -23,15 +23,17 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
         - Use waste products and other outputs of the building as inputs somewhere else (waste = food)
         - Provide the same ecosystem services as the displaced ecological features
 
-5. List a few of the different strategies the authors discuss in the “Respecting Diversity” chapter for how our built and made environment can become more sustainable:
+5. **List a few of the different strategies the authors discuss in the “Respecting Diversity” chapter for how our built and made environment can become more sustainable:**
 
-6. In what ways to you respect diversity in your daily life?
+6. **In what ways to you respect diversity in your daily life?**
 
-7. What are the 5 steps towards eco-effectiveness?
+7. **What are the 5 steps towards eco-effectiveness?**
 
-8. What are the 5 guiding principles for eco-effective design?
+8. **What are the 5 guiding principles for eco-effective design?**
 
-9. What did you think of this book?
+9. **What did you think of this book?**
+
+	I think there are definitely multiple authors. Some parts of the book are almost unreadable: the author’s voice is so conceited and willing to try to guilt you into agreeing with him. And yet, other parts seem well-established, relatable, and clearly explained without being patronizing. The intelligence of both (or all) authors shines (again, about half the time in a good way), and the book has some extremely interesting and helpful insights. It has enough examples to be helpful, though it could do with more, as it occasionally gets into overly-abstract philosophy that is difficult to visualize, much less apply without the authors’ backgrounds.
 
 ## Definitions
 <dl>
