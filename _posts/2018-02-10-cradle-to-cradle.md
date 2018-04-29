@@ -29,6 +29,7 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
         - Provide the same ecosystem services as the displaced ecological features
 
 5. **List a few of the different strategies the authors discuss in the “Respecting Diversity” chapter for how our built and made environment can become more sustainable:**
+
 	1. Look at local history and culture for locally relevant ways of producing / designing systems / products
 	2. Consider how to reduce a product to its simplest form that is still globally relevant, then add local modifications
 
