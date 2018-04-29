@@ -45,7 +45,6 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 	- Redesign to be positive: reframe the problem so that your solution can be truly sustainable, to the extent that the problem allows
 	- Reinvent: find a solution that solves the problem, even if it makes the problem redundant. For instance, I need a safe clothing fabric. Perhaps the reinvented solution is to switch to using leaves instead of processed textiles. This is a little ridiculous, of course, but this step is (insofar as I can tell) usually only productive in producing ridiculous solutions, and is more helpful as an option to keep in the back of your mind, rather than trying to implement each time you design something.
 
-
 8. **What are the 5 guiding principles for eco-effective design?**
 
 	- Commit to being eco-effective ("Signal your intention")
