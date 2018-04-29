@@ -32,3 +32,15 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 8. What are the 5 guiding principles for eco-effective design?
 
 9. What did you think of this book?
+
+## Definitions
+<dl>
+  <dt>Crude Products</dt>
+  <dd>A product designed to be the least sufficient response to the greatest targeted problem.</dd>
+  <dt>Products Plus</dt>
+  <dd>A product that you buy PLUS additional additives or effects you were not aware of and may not want.</dd>
+  <dt>Downcycling</dt>
+  <dd>Recycling that substantially reduces the quality of the products undergoing it, or else recycling that takes so many resources to perform that the net effect is even less sustainable than simple replacement of the inputs.</dd>
+  <dt></dt>
+  <dd></dd>
+</dl>
