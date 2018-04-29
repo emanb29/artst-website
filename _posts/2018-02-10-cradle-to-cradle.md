@@ -39,11 +39,11 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 
 7. **What are the 5 steps towards eco-effectiveness?**
 
-	- Eliminate obvious culprits (X substances in industry): consider “Arsenic-free” food. This can often be obvious, but is a necessary first step
-	- Follow well-informed preferences: When designing a product or service, you need to consider the preferences of the consumer of your product/service. However, you can prioritize the values/preferences that are inline with eco-effectiveness, such as respect, ecological intellect, and celebration of natural design
-	- Use passive positivity: ie, substitute non-sustainable options for equivalent sustainable ones when possible, espescially regarding materials. This is the last part of being “less bad”
-	- Redesign to be positive: reframe the problem so that your solution can be truly sustainable, to the extent that the problem allows
-	- Reinvent: find a solution that solves the problem, even if it makes the problem redundant. For instance, I need a safe clothing fabric. Perhaps the reinvented solution is to switch to using leaves instead of processed textiles. This is a little ridiculous, of course, but this step is (insofar as I can tell) usually only productive in producing ridiculous solutions, and is more helpful as an option to keep in the back of your mind, rather than trying to implement each time you design something.
+	1. Eliminate obvious culprits (X substances in industry): consider “Arsenic-free” food. This can often be obvious, but is a necessary first step
+	2. Follow well-informed preferences: When designing a product or service, you need to consider the preferences of the consumer of your product/service. However, you can prioritize the values/preferences that are inline with eco-effectiveness, such as respect, ecological intellect, and celebration of natural design
+	3. Use passive positivity: ie, substitute non-sustainable options for equivalent sustainable ones when possible, espescially regarding materials. This is the last part of being “less bad”
+	4. Redesign to be positive: reframe the problem so that your solution can be truly sustainable, to the extent that the problem allows
+	5. Reinvent: find a solution that solves the problem, even if it makes the problem redundant. For instance, I need a safe clothing fabric. Perhaps the reinvented solution is to switch to using leaves instead of processed textiles. This is a little ridiculous, of course, but this step is (insofar as I can tell) usually only productive in producing ridiculous solutions, and is more helpful as an option to keep in the back of your mind, rather than trying to implement each time you design something.
 
 8. **What are the 5 guiding principles for eco-effective design?**
 
