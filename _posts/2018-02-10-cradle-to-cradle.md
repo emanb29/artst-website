@@ -8,6 +8,7 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 1. **What concerns do the authors discuss in relation to the way Gross Domestic Product (GDP) is calculated?**
 
 	GDP is a measure of how much economic output a country produces. The authors argue that because the measure does not consider reusability of the output, nor the costs of production, nor the social or ecological impact of production, it is a flawed and insufficient quantifier of industry. They argue it may have served a more direct purpose during the beginning of the industrial revolution when industrial culture was all about throughput with little holistic consideration, when resources seemed unlimited and technologies produced more jobs rather than fewer, but the concept of GDP, according to the authors, is now at least antiquated.
+    
 2. **Describe the concept contained in the phrase “Less Bad” Why do the authors say that less bad is no good?**
 
 	The authors use “less bad” to refer to the existing paradigm of thought surrounding reusability: “How can we, within our current manufacturing, distribution, and cultural processes produce less harm for the environment, for future generations, and for public health?” They argue that given their perception of population growth and the current trends towards expansive consumption in industry, simply reducing the “bad” effects will not be enough. The central thesis of the book builds from this to say that a complete design paradigm shift is necessary: The cradle-to-cradle approach.
