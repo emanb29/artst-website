@@ -1,5 +1,6 @@
 ---
 published: true
+preview: "https://i.imgur.com/r3lrXCM.jpg"
 ---
 ## Context
 After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I was asked to respond to a sequence of questions and define some terms in the context of _Cradle to Cradle_. What follows are the questions, answers, and definitions.
