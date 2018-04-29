@@ -20,6 +20,8 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
     	- Recycle as many materials as possible
    - Eco-effective building:
     	- Make the building functional
+        - Use waste products and other outputs of the building as inputs somewhere else (waste = food)
+        - Provide the same ecosystem services as the displaced ecological features
 
 5. List a few of the different strategies the authors discuss in the “Respecting Diversity” chapter for how our built and made environment can become more sustainable:
 
