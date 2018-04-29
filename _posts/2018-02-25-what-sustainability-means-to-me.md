@@ -13,10 +13,12 @@ INTERVIEWS:
  - Jeffrey Bell, M.S.; Father; Head of Engineering at Galois, Inc
  - IS3 Kai Freeman; Friend; Naval Intelligence Specialist 3rd Class
  - Julie Layshock, Ph.D.; Co-worker’s wife, Professor of Environmental Chemistry and former board member at Zero Waste Humboldt
+ 
 BOOKS:
  - Cradle to Cradle; Michael Braungart; 2002
  - Hydrothermal Carbonization of Lignocellulosic Biomass; Mohammad Toufiqur Reza; 2011
  - LEED v4 Practices, Certification, and Accreditation Handbook; Sam Kubba; 2016
+ 
 OTHER:
  - “Sustainable Computing”; Pamphlet; Cornell University; http://archive.is/OjkqE
  - “Puppet Labs is Sustainability…”; Blog Post; Nandini Mitra from Puppet Labs; http://archive.is/qsAYk
