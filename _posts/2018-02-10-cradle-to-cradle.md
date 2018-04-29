@@ -53,7 +53,6 @@ After reading _Cradle to Cradle_, by Michael Braungart and William McDonough, I 
 	4. Be ready to follow through on sticking with the changes (“Understand and prepare for the learning curve”)
 	5. Act as a steward and, separately, ensure your changes are reversible (or your whole system is replaceable) for when the needs of future consumers change (“Exert intergenerational responsibility”)
 
-
 9. **What did you think of this book?**
 
 	I think there are definitely multiple authors. Some parts of the book are almost unreadable: the author’s voice is so conceited and willing to try to guilt you into agreeing with him. And yet, other parts seem well-established, relatable, and clearly explained without being patronizing. The intelligence of both (or all) authors shines (again, about half the time in a good way), and the book has some extremely interesting and helpful insights. It has enough examples to be helpful, though it could do with more, as it occasionally gets into overly-abstract philosophy that is difficult to visualize, much less apply without the authors’ backgrounds.
