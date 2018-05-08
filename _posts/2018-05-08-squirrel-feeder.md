@@ -34,3 +34,11 @@ In practice, this project mostly ended up being an exercise in learning Adobe Il
 ##### Adding a little squirrel logo to the side
 This was adapted from a scan of a 1940's coloring book, found on https://thegraphicsfairy.com/free-line-art-images-squirrel-drawings/
 ![Adding a little squirrel logo to the side](https://i.imgur.com/bZzqJxz.png)
+
+## Resources
+The following resources were essential to this effort:
+- [http://www.makercase.com](http://www.makercase.com)
+- [https://helpx.adobe.com/illustrator/](https://helpx.adobe.com/illustrator/using/cutting-dividing-objects.html)
+- [https://forums.adobe.com/](https://forums.adobe.com/thread/741153)
+- [https://graphicdesign.stackexchange.com/](https://graphicdesign.stackexchange.com/questions/75499/cut-path-at-intersections)
+- https://thegraphicsfairy.com/free-line-art-images-squirrel-drawings/
