@@ -2,7 +2,7 @@
 published: true
 preview: 'https://i.imgur.com/iqCkooF.jpg'
 ---
-![](https://i.imgur.com/iqCkooF.jpg)
+![Laurence and I taking a windmill selfie](https://i.imgur.com/iqCkooF.jpg)
 
 This was our first charette. It served to introduce us not only to the charette format, but also to the iterative design process and the merits of documenting your progress and thoughts in designing a project.
 
