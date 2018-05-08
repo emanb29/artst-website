@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 preview: 'https://i.imgur.com/bZzqJxz.png'
 ---
 ## A short-span project
